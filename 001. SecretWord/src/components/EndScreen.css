@@ -1,0 +1,36 @@
+.end {
+    margin-top: 200px;
+}
+
+.end h1 {
+    font-size: 3.5em;
+    color: gray;
+}
+
+.end h2 {
+    font-size: 1.2em;
+    color: gray;
+}
+
+.end h2 span {
+    color: blue;
+}
+
+.end p {
+    color: blue;
+    font-weight: bold;
+}
+
+.end button {
+    margin-top: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    width: 200px;
+}
+
+.end button:hover {
+    background-color: lightgray;
+    font-weight: bold;
+    color: rgb(58, 1, 1);
+}

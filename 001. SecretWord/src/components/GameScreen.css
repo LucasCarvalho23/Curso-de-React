@@ -1,0 +1,76 @@
+.points, .points span {
+    text-align: right;
+    font-size: .9em;
+    color: black;
+}
+
+.game h1 {
+    font-size: 3em;
+    color: black;
+    margin-top: 100px;
+}
+
+.game h3 {
+    color: blue;
+    text-align: left;
+}
+
+.tryError {
+    text-align: left;
+    font-size: .9em;
+    color: black;
+}
+
+.wordContainer {
+    margin: 70px 0;
+}
+
+.letter, .blankSquare {
+    font-size: 3.5em;
+    padding: 7px;
+    margin-right: 1px;
+    border: 3px solid black;
+    text-transform: uppercase;
+    background-color: white;
+}
+
+.letterContainer p {
+    color: blue;
+    font-weight: bold;
+    text-align: left;
+}
+
+.letterContainer > form > input {
+    width: 40px;
+    height: 40px;
+    font-size: 1.5em;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.game button {
+    margin-top: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid blue;
+    width: 80px;
+    color: blue;
+    font-weight: bold;
+}
+
+.game button:hover {
+    background-color: rgb(50, 50, 250);
+    border: 2px solid white;
+    color: white;
+    font-weight: bold;
+}
+
+.wrongLettersContainer {
+    margin-top: 50px;
+}
+
+.wrongLettersContainer p, .wrongLettersContainer span {
+    color: blue;
+    font-weight: bold;
+    text-align: left;
+}
