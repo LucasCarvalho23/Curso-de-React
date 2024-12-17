@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": "2",
+      "name": "Calça Vermelha",
+      "price": 90
+    },
+    {
+      "id": "3",
+      "name": "Boné",
+      "price": 29.9
+    },
+    {
+      "id": "b558",
+      "name": "Tênis Nike",
+      "price": "500"
+    },
+    {
+      "id": "feab",
+      "name": "Tênis Nike",
+      "price": "500"
+    },
+    {
+      "id": "4236",
+      "name": "Cueca Puma",
+      "price": "39,90"
+    },
+    {
+      "id": "1552"
+    },
+    {
+      "id": "1a15"
+    },
+    {
+      "id": "623f"
+    },
+    {
+      "id": "afc2",
+      "name": "Meia nike",
+      "price": "30"
+    },
+    {
+      "id": "82c1",
+      "name": "Creatina",
+      "price": "50"
+    },
+    {
+      "id": "cfaf",
+      "name": "Copo Vasco",
+      "price": "70"
+    },
+    {
+      "id": "4421",
+      "name": "Copo Vasco",
+      "price": "70"
+    }
+  ]
+}
